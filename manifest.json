@@ -1,0 +1,8 @@
+{
+  "name": "Nanih Oba Portal",
+  "short_name": "NanihOba",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Live Broadcast Portal for the Nation of Nanih Oba"
+}
